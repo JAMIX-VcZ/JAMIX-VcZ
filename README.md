@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JAMIX-VcZ
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning javascript and c++
+- 🌱 I’m currently learning JavaScript, C++, and HTML
 - 💞️ I’m looking to collaborate on games
 - 📫 Reach me by email
 
