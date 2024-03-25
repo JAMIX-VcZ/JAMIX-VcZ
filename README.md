@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JAMIX-VcZ
-- 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning JavaScript, C++, and HTML
-- 💞️ I’m looking to collaborate on games
-- 📫 Reach me by email
+- 👋 Hi, I’m Lagweird
+- 👀 I’m interested in coding and music
+- 🌱 I’m currently learning JavaScript and C++
 
 <!---
 JAMIX-VcZ/JAMIX-VcZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
